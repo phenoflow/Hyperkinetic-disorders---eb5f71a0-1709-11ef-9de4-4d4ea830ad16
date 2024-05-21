@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hyperkinetic---primary.py
+inputModule3:
+  class: File
+  path: python/hyperkinetic-disorders-childhood---primary.py
+inputModule4:
+  class: File
+  path: python/hyperkinetic-disorders---primary.py
+inputModule5:
+  class: File
+  path: python/hyperkinetic-disorders-conduct---primary.py
+inputModule6:
+  class: File
+  path: python/other-hyperkinetic-disorders---primary.py
+inputModule7:
+  class: File
+  path: python/hyperkinetic-disorders-hyperactivity---primary.py
+inputModule8:
+  class: File
+  path: python/overactive-hyperkinetic-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
